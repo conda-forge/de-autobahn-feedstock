@@ -26,7 +26,7 @@ requirements:
 
 test:
   imports:
-    - deutschland
+    - deutschland.autobahn
   commands:
     - pip check
   requires:
